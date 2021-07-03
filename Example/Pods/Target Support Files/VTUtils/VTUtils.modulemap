@@ -1,0 +1,6 @@
+framework module VTUtils {
+  umbrella header "VTUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

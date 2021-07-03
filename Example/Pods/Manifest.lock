@@ -1,0 +1,16 @@
+PODS:
+  - VTUtils (0.1.0)
+
+DEPENDENCIES:
+  - VTUtils (from `../`)
+
+EXTERNAL SOURCES:
+  VTUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VTUtils: cc0df19186fa92f4081838a1183a9ddb588cec5f
+
+PODFILE CHECKSUM: b539da99e6bed29eeb438f943f30079e6f8c627f
+
+COCOAPODS: 1.8.4

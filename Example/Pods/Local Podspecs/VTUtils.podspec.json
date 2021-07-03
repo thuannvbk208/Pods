@@ -1,0 +1,22 @@
+{
+  "name": "VTUtils",
+  "version": "0.1.0",
+  "summary": "A short description of VTUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thuannv208@gmail.com/VTUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thuannv208@gmail.com": "theface193@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/thuannv208@gmail.com/VTUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VTUtils/Classes/**/*"
+}

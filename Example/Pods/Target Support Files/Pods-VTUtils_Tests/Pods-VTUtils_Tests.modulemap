@@ -1,0 +1,6 @@
+framework module Pods_VTUtils_Tests {
+  umbrella header "Pods-VTUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
