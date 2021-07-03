@@ -11,7 +11,7 @@
 		1E9A1E48125C969456A0BA1D527BC68D /* Pods-VTUtils_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C30DBFF2B1A0ED9DB20E93D9F58D9463 /* Pods-VTUtils_Tests-dummy.m */; };
 		32073A63C896383D2B61199B55742A5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		324AB14AA9EDD3A86F88828C71592AA9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		6A1D3CCB063473E1B1E1AB0C60F94B0A /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21AE6093122C8D0476603F83371EBDF /* ReplaceMe.swift */; };
+		6A1D3CCB063473E1B1E1AB0C60F94B0A /* LeftImageTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F21AE6093122C8D0476603F83371EBDF /* LeftImageTextField.swift */; };
 		7715FA122FD423894F2C9C9234551B20 /* Pods-VTUtils_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A2F7F4E0BAAC5F2598280101FB55A8AB /* Pods-VTUtils_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86CBD44C178E6B02C69868F1F235F228 /* Pods-VTUtils_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9D0488FC141A918BECC51524E9622B /* Pods-VTUtils_Example-dummy.m */; };
 		8857D91E91E63B3C7C3B5B057CF90C06 /* VTUtils-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B91DEA58A27F20EC9021C1B4B547F39 /* VTUtils-dummy.m */; };
@@ -47,19 +47,19 @@
 		1B62AB4DCB26D86E2107C2C7AC1B81E2 /* Pods-VTUtils_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-VTUtils_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1D0627F9335BF07B83A31E61ED8C11CD /* VTUtils-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "VTUtils-umbrella.h"; sourceTree = "<group>"; };
 		24914D4E5FC3E24F87F1AC9FDCA15438 /* Pods-VTUtils_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VTUtils_Example.release.xcconfig"; sourceTree = "<group>"; };
-		26253F8556F027680E28B659E1D9D9A4 /* VTUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = VTUtils.framework; path = VTUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		26253F8556F027680E28B659E1D9D9A4 /* VTUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VTUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3C9D0488FC141A918BECC51524E9622B /* Pods-VTUtils_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-VTUtils_Example-dummy.m"; sourceTree = "<group>"; };
 		40CAF98CDA814DCAACEBA1A8EF42D5F7 /* Pods-VTUtils_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VTUtils_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		433599A3BD6FC6CB7918F9D061233A0C /* Pods-VTUtils_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VTUtils_Example-Info.plist"; sourceTree = "<group>"; };
-		4521AE65648BEF5FAA07692F8641B72D /* VTUtils.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = VTUtils.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		5C41B4543321E4589DE0A3529223B25B /* Pods_VTUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_VTUtils_Tests.framework; path = "Pods-VTUtils_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		68516FE9CEF2213DF1BA8D5623CCC855 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		4521AE65648BEF5FAA07692F8641B72D /* VTUtils.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = VTUtils.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5C41B4543321E4589DE0A3529223B25B /* Pods_VTUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VTUtils_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		68516FE9CEF2213DF1BA8D5623CCC855 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7261025699FD9FCCCE83C03D7217DA44 /* Pods-VTUtils_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VTUtils_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		749C48436EB30FAEDC23C0BAC3A164EA /* Pods-VTUtils_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VTUtils_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		88E3F8D8C8E503954EAE04472C9429FC /* Pods_VTUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_VTUtils_Example.framework; path = "Pods-VTUtils_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88E3F8D8C8E503954EAE04472C9429FC /* Pods_VTUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VTUtils_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		951BD6C816B1E10C3DB1C03588E9E8A9 /* Pods-VTUtils_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VTUtils_Tests-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A2CED8A8A768EEA38E46F53B7B0C1971 /* Pods-VTUtils_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-VTUtils_Tests-umbrella.h"; sourceTree = "<group>"; };
 		A2F7F4E0BAAC5F2598280101FB55A8AB /* Pods-VTUtils_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-VTUtils_Example-umbrella.h"; sourceTree = "<group>"; };
 		B3BBB7DD850E170636EF9EA14146FA11 /* Pods-VTUtils_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-VTUtils_Example.modulemap"; sourceTree = "<group>"; };
@@ -67,8 +67,8 @@
 		BD99869807A5F4166C07D25E1E292910 /* Pods-VTUtils_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-VTUtils_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C30DBFF2B1A0ED9DB20E93D9F58D9463 /* Pods-VTUtils_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-VTUtils_Tests-dummy.m"; sourceTree = "<group>"; };
 		C4D402E420E0275E75CACEB89AE9C950 /* VTUtils-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "VTUtils-prefix.pch"; sourceTree = "<group>"; };
-		F21AE6093122C8D0476603F83371EBDF /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = VTUtils/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		FB3934A65A57951BC6023F4B581E9875 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F21AE6093122C8D0476603F83371EBDF /* LeftImageTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LeftImageTextField.swift; path = VTUtils/Classes/LeftImageTextField.swift; sourceTree = "<group>"; };
+		FB3934A65A57951BC6023F4B581E9875 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -213,7 +213,7 @@
 		E4F1CD01398D223B6666AEB3D82AE6E9 /* VTUtils */ = {
 			isa = PBXGroup;
 			children = (
-				F21AE6093122C8D0476603F83371EBDF /* ReplaceMe.swift */,
+				F21AE6093122C8D0476603F83371EBDF /* LeftImageTextField.swift */,
 				7FF1913512B5FF2DC2C0726134FCAB13 /* Pod */,
 				12E415E68791D3141AF1253DF065FFA1 /* Support Files */,
 			);
@@ -381,7 +381,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A1D3CCB063473E1B1E1AB0C60F94B0A /* ReplaceMe.swift in Sources */,
+				6A1D3CCB063473E1B1E1AB0C60F94B0A /* LeftImageTextField.swift in Sources */,
 				8857D91E91E63B3C7C3B5B057CF90C06 /* VTUtils-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -522,8 +522,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
