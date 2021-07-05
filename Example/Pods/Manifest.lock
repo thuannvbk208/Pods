@@ -2,15 +2,15 @@ PODS:
   - VTUtils (0.1.0)
 
 DEPENDENCIES:
-  - VTUtils (from `../`)
+  - VTUtils
 
-EXTERNAL SOURCES:
-  VTUtils:
-    :path: "../"
+SPEC REPOS:
+  trunk:
+    - VTUtils
 
 SPEC CHECKSUMS:
-  VTUtils: cc0df19186fa92f4081838a1183a9ddb588cec5f
+  VTUtils: d10c05d48c5ce37dd434c001b9a6b1e838681415
 
-PODFILE CHECKSUM: b539da99e6bed29eeb438f943f30079e6f8c627f
+PODFILE CHECKSUM: 86bde7e40e5c4a0e902f5678d922a1f2f67566b4
 
 COCOAPODS: 1.8.4

@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'VTUtils_Example' do
-  pod 'VTUtils', :path => '../'
+  pod 'VTUtils'
 
   target 'VTUtils_Tests' do
     inherit! :search_paths
